@@ -42,6 +42,8 @@ I'm Faiss, a passionate student who loves the creative world of design and the e
   <img align="left" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 </span>
 
+<br />
+
 <span style="margin-right: 5px;">
   <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </span>
@@ -61,8 +63,6 @@ I'm Faiss, a passionate student who loves the creative world of design and the e
 <span style="margin-right: 5px;">
   <img align="left" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 </span>
-
-
 
 <br />
 <br />
