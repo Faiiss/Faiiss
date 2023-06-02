@@ -20,8 +20,8 @@ I'm Faiss, a passionate student who loves the creative world of design and the e
 
 If you share similar interests or have any exciting collaborations in mind, feel free to reach out. I'm always eager to connect with fellow designers, developers, and creators. You can find me on various platforms:
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Personal Website: [your-website.com](https://your-website.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
+- 📧 Email: [faissdesigns@gmail.com](mailto:faissdesigns@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/faiss-designs-3160a423b/)
+- 🌐 Personal Website: [faiss.nl](https://faiss.nl)
+- 🐦 Twitter: [@FaissDesigns](https://twitter.com/FaissDesigns)
+- 📷 Instagram: [@faissdesigns](https://instagram.com/faissdesigns)
