@@ -18,7 +18,8 @@ I'm Faiss, a passionate student who loves the creative world of design and the e
 
 ## Let's Connect!
 
-If you share similar interests or have any exciting collaborations in mind, feel free to reach out. I'm always eager to connect with fellow designers, developers, and creators. You can find me on various platforms:
+If you share similar interests, feel free to reach out. I'm always eager to connect with fellow designers, developers, and creators. 
+You can find me on various platforms:
 
 - 📧 Email: [faissdesigns@gmail.com](mailto:faissdesigns@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/faissdesigns](https://www.linkedin.com/in/faiss-designs-3160a423b/)
