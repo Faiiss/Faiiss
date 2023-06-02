@@ -16,6 +16,10 @@ I'm Faiss, a passionate student who loves the creative world of design and the e
 
 - 💻 Aspiring Developer: Alongside my design skills, I'm also delving into the captivating world of coding. I'm currently a student, actively learning various programming languages and frameworks to expand my skill set and build awesome projects.
 
+<br />
+<br />
+<br />
+
 ## My skills
 <img align="left" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
@@ -27,6 +31,9 @@ I'm Faiss, a passionate student who loves the creative world of design and the e
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<br />
+<br />
+<br />
 
 ## My Interests
 
