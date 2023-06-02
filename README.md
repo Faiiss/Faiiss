@@ -1,9 +1,16 @@
 # Hi there! 👋
 
-I'm Faiss, a passionate student who loves the creative world of design and the exciting realm of coding. Let me tell you a bit about myself!
+<div>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Faiiss&show_icons=true&theme=radical"/>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiiss&layout=compact"/>
+</div>
+
+<br />
+<br />
+<br />
 
 ## About Me
-
+I'm Faiss, a passionate student who loves the creative world of design and the exciting realm of coding. Let me tell you a bit about myself!
 - 🎨 Design Enthusiast: I have a deep fascination for visual arts, particularly Photoshop, After Effects, Premiere Pro, and Illustrator. Creating stunning graphics and bringing ideas to life through multimedia is what I thrive on.
 
 - 💻 Aspiring Developer: Alongside my design skills, I'm also delving into the captivating world of coding. I'm currently a student, actively learning various programming languages and frameworks to expand my skill set and build awesome projects.
